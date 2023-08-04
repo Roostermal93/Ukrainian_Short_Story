@@ -1,0 +1,49 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "12269923-3f88-4c4c-9116-e50ec3455960",
+            "collectionId": "Ukrainian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Short_Story/12269923-3f88-4c4c-9116-e50ec3455960/12269923-3f88-4c4c-9116-e50ec3455960_uk_Female.mp4"
+        },
+        {
+            "id": "a56b34e2-124d-4116-a443-20d4f857e791",
+            "collectionId": "Ukrainian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Short_Story/a56b34e2-124d-4116-a443-20d4f857e791/a56b34e2-124d-4116-a443-20d4f857e791_uk_Female.mp4"
+        },
+        {
+            "id": "74d7c161-2fcc-4df9-ae4f-1e6bcb645b83",
+            "collectionId": "Ukrainian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Short_Story/74d7c161-2fcc-4df9-ae4f-1e6bcb645b83/74d7c161-2fcc-4df9-ae4f-1e6bcb645b83_uk_Female.mp4"
+        },
+        {
+            "id": "2d55156c-7b61-41dd-b761-8c3b56dd5c39",
+            "collectionId": "Ukrainian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Short_Story/2d55156c-7b61-41dd-b761-8c3b56dd5c39/2d55156c-7b61-41dd-b761-8c3b56dd5c39_uk_Female.mp4"
+        },
+        {
+            "id": "2e20c6e9-d474-49c4-b815-a98ba7ed16e3",
+            "collectionId": "Ukrainian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Short_Story/2e20c6e9-d474-49c4-b815-a98ba7ed16e3/2e20c6e9-d474-49c4-b815-a98ba7ed16e3_uk_Female.mp4"
+        },
+        {
+            "id": "db6290f0-08b2-4c7d-a941-beba49f597ad",
+            "collectionId": "Ukrainian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Short_Story/db6290f0-08b2-4c7d-a941-beba49f597ad/db6290f0-08b2-4c7d-a941-beba49f597ad_uk_Female.mp4"
+        }
+    ]
+}
